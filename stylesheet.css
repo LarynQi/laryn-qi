@@ -133,3 +133,12 @@ span.highlight {
 img.circle {
   border-radius: 50%;
 }
+
+img.download {
+  max-height: 2.5vh;
+  max-width: 2.5vw;
+}
+
+img.download:hover {
+  background-color: lightgray;
+}
